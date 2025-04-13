@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Janine+V+Farias.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 <h1 align="left"> Sobre Mim</h1>
-
+<img align ="right" height = "180" src = "voce_hacker_modo_cartoon.png"/>
 
   <p>Sou formada no Colégio Tiradentes da Brigada Militar de Pelotas (2023), onde além da formação acadêmica, recebi valiosos ensinamentos sobre ética, responsabilidade e disciplina, por meio de um ensino rigoroso. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Unisenac e Direito na Universidade Federal de Pelotas. Tenho grande paixão pela área de segurança da informação e desenvolvimento front-end, e me considero uma entusiasta dessas áreas, buscando aprender e me aperfeiçoar a cada dia.<br><br></p>
    <h1 align="left"> Formação e Desenvolvimento</h1>
