@@ -2,7 +2,7 @@
 <h1 align="left"> Sobre Mim</h1>
 <img align ="right" height = "180" src = "voce_hacker_modo_cartoon.png"/>
 
-  <p>Sou formada no Colégio Tiradentes da Brigada Militar de Pelotas (2023), onde além da formação acadêmica, recebi valiosos ensinamentos sobre ética, responsabilidade e disciplina, por meio de um ensino rigoroso. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Unisenac e Direito na Universidade Federal de Pelotas. Tenho grande paixão pela área de segurança da informação e desenvolvimento front-end, e me considero uma entusiasta dessas áreas, buscando aprender e me aperfeiçoar a cada dia.<br><br></p>
+  <p>Sou formada no Colégio Tiradentes da Brigada Militar de Pelotas (2023), onde além da formação acadêmica, recebi valiosos ensinamentos sobre ética, responsabilidade e disciplina, por meio de um ensino rigoroso. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Unisenac e Direito na Universidade Federal de Pelotas. Tenho grande paixão pela área de segurança da informação, cibersegurança e desenvolvimento front-end, e me considero uma entusiasta dessas áreas, buscando aprender e me aperfeiçoar a cada dia.<br><br></p>
    <h1 align="left"> Formação e Desenvolvimento</h1>
      <p>Desde os primeiros anos dos meus cursos, tenho me dedicado ativamente à busca de conhecimento, participando de diversos cursos de certificação, eventos como voluntária, palestras e escrevendo artigos. Gosto de me envolver em tudo que me desafie e que me permita crescer, buscando sempre contribuir para o desenvolvimento de minha área e ampliar minha rede de conexões.<br><br></p>
       <h1 align= "left"> Visão Multidisciplinar</h1>
