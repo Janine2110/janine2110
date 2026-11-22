@@ -15,7 +15,7 @@
 
 
 ### 
-<h1>GitHub Stats<h1/>
+<h1>GitHub Stats</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janine2110&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -24,10 +24,10 @@
   <a href="https://www.instagram.com/janinefarias21_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discord.com/channels/@farjanneas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="janinefarias2005@gmail.com" target="_blank">
+  <a href="mailto:janinefarias2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/janine-veigas-farias-b73a232ba/" target="_blank">
